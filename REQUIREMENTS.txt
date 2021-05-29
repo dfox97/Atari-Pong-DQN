@@ -1,0 +1,21 @@
+Libaries used:
+
+import os - usually part of standard python libary, interacts with operating system allowing you to easily save and load files and directories.
+
+import torch  - pytorch libary I used: conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch: https://pytorch.org/  
+
+import numpy  - numpy library for math and array calculations
+
+import gym - openAi gym install : https://gym.openai.com/docs/ : pip install gym[atari]
+
+import collections - Should be standard built in libary - used to create containers to store collections of data using list,dict ect : pip install collection
+
+import cv2 - open-cv libary for python, used for image processing. pip install opencv-python or conda install -c conda-forge opencv
+
+import matplotlib.pyplot - lib to plot graphs. pip install matplotlib
+
+
+Folders should already be provided but if not, create folders called:
+models
+plots
+videos
