@@ -5,7 +5,7 @@ Videos are included on various training steps to showcase the Ai learning over t
 The Ai agent being trained is the green player while the orange is the default Ai from Atari pong.
 Winner is the first to score 20.
 
-![]https://im3.ezgif.com/tmp/ezgif-3-1729856bed6d.gif
+![](https://im3.ezgif.com/tmp/ezgif-3-1729856bed6d.gif)
 
 Pc Specs:
 1060 GTX
