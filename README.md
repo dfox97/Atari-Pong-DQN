@@ -44,6 +44,6 @@ https://user-images.githubusercontent.com/61083107/136714802-bcc140b8-386c-49bf-
 https://user-images.githubusercontent.com/61083107/136714676-679d4174-687b-4111-8a0d-6d63c61b284d.mp4
 
 
-## BUGS ## :
+## BUGS : ##
 Load checkpoint stopped working properly. It loads but doesnt plot the graph or play the game as intended. It plays like it has not learnt and keeps a negative score.
 Saving video works but i cant get it to play on my media player. So i screen recorded the example of the agent fully trained at 500 episodes.
