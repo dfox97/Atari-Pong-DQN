@@ -1,4 +1,19 @@
-HOW TO RUN:
+## Intro ##
+OpenAI Atari Pong game Group project for Postgraduate module in Machine Learning. 
+Videos are included on various training steps to showcase the Ai learning over time. It took 8hours to train the Ai to win the game of pong 100% of the time. 
+
+
+
+
+https://user-images.githubusercontent.com/61083107/136714676-679d4174-687b-4111-8a0d-6d63c61b284d.mp4
+
+
+
+Pc Specs:
+1060 GTX
+i7 7700k 
+
+## HOW TO RUN ##
 
 Its advised to use the zip file provided since all the folders are created inside there.
 Make sure requirments are fully installed, and make sure the correct folders are created.
