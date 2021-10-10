@@ -2,11 +2,10 @@
 OpenAI Atari Pong game Group project for Postgraduate module in Machine Learning. 
 Videos are included on various training steps to showcase the Ai learning over time. It took 8hours to train the Ai to win the game of pong 100% of the time. 
 
+The Ai agent being trained is the green player while the orange is the default Ai from Atari pong.
+Winner is the first to score 20.
 
-
-
-https://user-images.githubusercontent.com/61083107/136714676-679d4174-687b-4111-8a0d-6d63c61b284d.mp4
-
+![image](https://user-images.githubusercontent.com/61083107/136714763-23ab2b7c-5c54-4fa0-aa6f-670eb242534b.png)
 
 
 Pc Specs:
@@ -32,6 +31,18 @@ SAVE_VIDEO=True # SAVES FILE BUT DOESNT PLAY FILE ON MEDIA PLAYER
 NUM_GAMES = 501 #takes about 5-6 hours of training on 1660 GTX GPU.
 environment="PongNoFrameskip-v4"
 
+##Videos of training ##
+
+### Step 5 (pretty much always loses) ###
+https://user-images.githubusercontent.com/61083107/136714791-6478ea37-ee5d-47a3-9f74-d7d4541117cb.mp4
+
+
+### Step 210 (Starting to learn to play the game) ###
+https://user-images.githubusercontent.com/61083107/136714802-bcc140b8-386c-49bf-a050-0d919492bf15.mp4
+
+
+### Step 500 (Winning) ###
+https://user-images.githubusercontent.com/61083107/136714676-679d4174-687b-4111-8a0d-6d63c61b284d.mp4
 
 
 BUGS:
