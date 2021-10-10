@@ -31,20 +31,20 @@ SAVE_VIDEO=True # SAVES FILE BUT DOESNT PLAY FILE ON MEDIA PLAYER
 NUM_GAMES = 501 #takes about 5-6 hours of training on 1660 GTX GPU.
 environment="PongNoFrameskip-v4"
 
-##Videos of training ##
+#Videos of training #
 
-### Step 5 (pretty much always loses) ###
+### At Step 5 (pretty much always loses) ###
 https://user-images.githubusercontent.com/61083107/136714791-6478ea37-ee5d-47a3-9f74-d7d4541117cb.mp4
 
 
-### Step 210 (Starting to learn to play the game) ###
+### At Step 210 (Starting to learn to play the game) ###
 https://user-images.githubusercontent.com/61083107/136714802-bcc140b8-386c-49bf-a050-0d919492bf15.mp4
 
 
-### Step 500 (Winning) ###
+### At Step 500 (Winning) ###
 https://user-images.githubusercontent.com/61083107/136714676-679d4174-687b-4111-8a0d-6d63c61b284d.mp4
 
 
-BUGS:
+## BUGS ## :
 Load checkpoint stopped working properly. It loads but doesnt plot the graph or play the game as intended. It plays like it has not learnt and keeps a negative score.
 Saving video works but i cant get it to play on my media player. So i screen recorded the example of the agent fully trained at 500 episodes.
